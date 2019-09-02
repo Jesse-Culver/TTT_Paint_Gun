@@ -1,0 +1,19 @@
+{
+	"title"		:	"TTT Paint Gun",
+	"type"		:	"weapon",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+    "*.git/*",
+    "*.pdn",
+    "LICENSE",
+		"gamemodes/mttt/README.md",
+		"README.md",
+		"*.log",
+    "source/*",
+		".gitignore",
+		"*.tga",
+		"*.svn*"
+	]
+}
